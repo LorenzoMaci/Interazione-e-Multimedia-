@@ -1,0 +1,17 @@
+size(1000,700);
+background(255);
+noFill();
+rect(50,60,80,80);
+ellipse(50,60,80,80);
+ellipseMode(CORNER);
+rect(150,60,80,80);
+ellipse(150,60,80,80);
+ellipseMode(RADIUS);
+rect(250,60,80,80);
+ellipse(250,60,80,80);
+ellipseMode(CENTER);
+rect(350,60,80,80);
+ellipse(350,60,80,80);
+ellipseMode(CORNERS);
+rect(450,60,80,80);
+ellipse(450,60,80,80);
